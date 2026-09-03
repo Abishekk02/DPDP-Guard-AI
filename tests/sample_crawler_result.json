@@ -1,0 +1,75 @@
+{
+  "scan_id": "test_scan_001",
+  "url": "https://example-shop.com",
+
+  "website": {
+    "title": "Example Online Store",
+    "description": "Online store selling electronics and accessories."
+  },
+
+  "pages": [
+    {
+      "url": "/",
+      "title": "Home",
+      "text": "Buy laptops, smartphones and electronics online."
+    },
+    {
+      "url": "/privacy",
+      "title": "Privacy Policy",
+      "text": "We collect your name, email address and phone number to process your orders."
+    },
+    {
+      "url": "/register",
+      "title": "Create Account",
+      "text": "Create an account using your name, email address and phone number."
+    }
+  ],
+
+  "forms": [
+    {
+      "page": "/register",
+      "fields": [
+        "name",
+        "email",
+        "phone",
+        "password"
+      ]
+    },
+    {
+      "page": "/checkout",
+      "fields": [
+        "name",
+        "email",
+        "phone",
+        "address",
+        "payment_information"
+      ]
+    }
+  ],
+
+  "cookies": [
+    {
+      "name": "_ga",
+      "provider": "Google Analytics",
+      "type": "analytics"
+    },
+    {
+      "name": "session_id",
+      "provider": "Example Shop",
+      "type": "essential"
+    }
+  ],
+
+  "consent_banner": {
+    "present": true,
+    "buttons": [
+      "Accept All",
+      "Manage Preferences"
+    ]
+  },
+
+  "privacy_policy": {
+    "present": true,
+    "url": "/privacy"
+  }
+}

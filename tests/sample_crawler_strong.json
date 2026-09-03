@@ -1,0 +1,21 @@
+{
+  "url": "https://example-shop.com",
+  "category": "ecommerce",
+  "pages": [
+    {
+      "url": "https://example-shop.com/privacy",
+      "title": "Privacy Policy",
+      "text": "We collect your name, email address, phone number, shipping address and payment information to process your orders. Personal data is encrypted in transit using TLS. Users may request deletion of their account by contacting privacy@example-shop.com. We retain personal data only for as long as necessary to provide our services and comply with legal obligations."
+    },
+    {
+      "url": "https://example-shop.com/contact",
+      "title": "Privacy Contact",
+      "text": "For questions about how we process personal data, contact our Privacy Officer at privacy@example-shop.com."
+    },
+    {
+      "url": "https://example-shop.com/register",
+      "title": "Create Account",
+      "text": "Create an account using your name, email address and password."
+    }
+  ]
+}

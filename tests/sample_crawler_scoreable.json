@@ -1,0 +1,50 @@
+{
+  "url": "https://www.compliantshop.in",
+  "category": "ecommerce",
+  "pages": [
+    {
+      "url": "https://www.compliantshop.in/privacy",
+      "title": "Privacy Policy",
+      "text": "PRIVACY POLICY — Last updated 1 December 2025. This notice is presented independently of any other information on this website and is understandable on its own. We collect the following personal data: (1) full name, (2) email address, (3) mobile phone number, (4) delivery address, (5) payment card details (last four digits only; full card data is processed by our PCI-DSS certified payment processor RazorPay India Pvt Ltd and is never stored on our servers). We collect this data for the following specific purposes only: (a) processing and delivering your order, (b) sending order confirmation and delivery updates, (c) processing refunds and returns. We do not use your personal data for any other purpose. We share your personal data only with: (1) Delhivery Ltd (delivery partner) for order fulfilment, (2) RazorPay India Pvt Ltd (payment processor) for payment processing. Both are contractually bound to process your data only for the stated purpose and to implement security safeguards equivalent to ours. We do not transfer personal data outside India. All personal data is stored on servers located in Mumbai, India operated by Amazon Web Services India Pvt Ltd. We retain your personal data for a maximum of 12 months after your last order, after which it is permanently deleted from all our systems and we instruct our data processors to delete it as well. You may withdraw your consent at any time by visiting your Account Settings page and clicking 'Withdraw Consent'. Withdrawing consent is as easy as giving it — it requires a single click. Upon withdrawal of consent, we will cease processing your personal data within 72 hours and notify our data processors to do the same. You may exercise the following rights by emailing privacy@compliantshop.in or by visiting the 'My Data Rights' page in your account: (a) right to access a summary of your personal data and the purposes for which it is processed, (b) right to correction and updating of inaccurate personal data, (c) right to erasure of your personal data, (d) right to nominate another individual to exercise your rights in the event of your death or incapacity — nomination forms are available in Account Settings. We will respond to all data rights requests within 72 hours. If you are not satisfied with our response, you may raise a grievance with our Grievance Officer: Ms Priya Sharma, Data Protection Officer, CompliantShop India Pvt Ltd, 4th Floor, Tech Park, Whitefield, Bengaluru 560066, email: dpo@compliantshop.in, phone: +91-80-4567-8900, available Monday to Friday 9am to 6pm IST. If your grievance is not resolved within 30 days, you may file a complaint with the Data Protection Board of India. We implement the following security safeguards: (a) all personal data is encrypted at rest using AES-256 and in transit using TLS 1.3, (b) access to personal data is restricted to authorised personnel only using role-based access controls, (c) all access to personal data systems is logged and monitored; logs are retained for a minimum of one year, (d) daily encrypted backups are maintained with 30-day retention, (e) our data processors RazorPay and Delhivery are contractually required to implement equivalent security safeguards. In the event of a personal data breach, we will notify each affected user through their registered email address and through an in-app notification without delay, describing the nature of the breach, its likely consequences, and the measures we are taking. We will also notify the Data Protection Board within 72 hours of becoming aware of the breach with full details as required. We do not process personal data of children under 18. Our registration form requires users to confirm they are 18 or older. We verify age using a date-of-birth field cross-checked against a government-issued ID for high-value orders. We do not engage in tracking or behavioural monitoring of children and do not serve targeted advertising to children. This privacy notice is available in English and in Hindi, Tamil, Telugu, Kannada, Malayalam, Bengali, Marathi, Gujarati, Punjabi, Odia, Urdu, and Assamese (all Eighth Schedule languages). You may request this notice in any of these languages by contacting dpo@compliantshop.in."
+    },
+    {
+      "url": "https://www.compliantshop.in/consent",
+      "title": "Consent and Data Rights",
+      "text": "CONSENT NOTICE — Before we process your personal data, we ask for your specific and informed consent. This notice is presented before you create an account or place an order. Personal data we will collect: name, email, phone, delivery address, payment details (processed by RazorPay, not stored by us). Purpose: to process and deliver your order and send you order updates. You may withdraw your consent at any time with a single click in Account Settings. Withdrawing consent is as easy as giving it. You may also exercise your rights to access, correct, update, erase your data, or nominate a representative, from the 'My Data Rights' page. To make a complaint to the Data Protection Board of India, visit https://dpboard.gov.in. By clicking 'I Agree', you give your specific, informed, free and unambiguous consent to the processing described above."
+    },
+    {
+      "url": "https://www.compliantshop.in/grievance",
+      "title": "Grievance Redressal",
+      "text": "GRIEVANCE REDRESSAL MECHANISM — If you have any concern about how we handle your personal data, please contact our Grievance Officer: Ms Priya Sharma, Data Protection Officer, CompliantShop India Pvt Ltd, email: dpo@compliantshop.in, phone: +91-80-4567-8900. We will acknowledge your grievance within 24 hours and resolve it within 30 days. If you are not satisfied, you may appeal to the Data Protection Board of India. Our grievance redressal process is published prominently on this page and is referenced in every response we send to a data rights request."
+    },
+    {
+      "url": "https://www.compliantshop.in/security",
+      "title": "Security Practices",
+      "text": "SECURITY SAFEGUARDS — We protect your personal data using: AES-256 encryption at rest, TLS 1.3 encryption in transit, role-based access controls limiting data access to authorised staff only, continuous monitoring and logging of all access to personal data systems with log retention for a minimum of one year, daily encrypted backups retained for 30 days, contractual security obligations imposed on all data processors (RazorPay India Pvt Ltd and Delhivery Ltd). In the event of a personal data breach, we will notify affected users immediately through registered email and in-app notification, and notify the Data Protection Board within 72 hours with a full breach report including nature, extent, timing, impact, and remediation measures."
+    },
+    {
+      "url": "https://www.compliantshop.in/data-retention",
+      "title": "Data Retention Policy",
+      "text": "DATA RETENTION — We retain your personal data for a maximum of 12 months after your last order. After this period, all personal data is permanently deleted from our systems and we instruct our data processors to delete it. Order transaction logs are retained for one year from the date of the transaction as required by applicable law and for security monitoring purposes. You may request early deletion of your personal data at any time from the 'My Data Rights' page in your account."
+    },
+    {
+      "url": "https://www.compliantshop.in/account",
+      "title": "Account Settings",
+      "text": "MY DATA RIGHTS — From this page you can: (1) View a complete summary of all personal data we hold about you and the purposes for which it is processed. (2) Correct or update any inaccurate personal data. (3) Request erasure of your personal data. (4) Withdraw your consent to data processing with a single click. (5) Nominate another individual to exercise your data rights in the event of your death or incapacity. (6) Download a copy of your personal data. All requests are processed within 72 hours. For assistance, contact dpo@compliantshop.in."
+    },
+    {
+      "url": "https://www.compliantshop.in/dpo",
+      "title": "Data Protection Officer",
+      "text": "DATA PROTECTION OFFICER — Ms Priya Sharma is our designated Data Protection Officer and Grievance Officer. Contact: dpo@compliantshop.in, +91-80-4567-8900, CompliantShop India Pvt Ltd, 4th Floor, Tech Park, Whitefield, Bengaluru 560066. She is available Monday to Friday, 9am to 6pm IST, and will respond to all queries about personal data processing within 72 hours. Her contact details are published prominently on our website and are included in every response to a data rights request."
+    },
+    {
+      "url": "https://www.compliantshop.in/processors",
+      "title": "Data Processors",
+      "text": "DATA PROCESSORS — We share your personal data with the following data processors who are contractually bound to process it only for the stated purpose and to implement security safeguards: (1) RazorPay India Pvt Ltd — payment processing only. Contract includes data security obligations, breach notification requirements, and prohibition on secondary use. (2) Delhivery Ltd — order delivery only. Contract includes data security obligations and prohibition on secondary use. (3) Amazon Web Services India Pvt Ltd — cloud hosting in Mumbai, India only. All data remains within India. No personal data is transferred outside India."
+    }
+  ],
+  "forms": ["register", "login", "checkout", "data_rights_request", "grievance", "consent_withdrawal", "nomination"],
+  "personal_data_collected": ["name", "email", "phone", "delivery address", "payment details (last 4 digits only)"],
+  "cookies": ["session", "cart"],
+  "consent_mechanisms": ["explicit_consent_form_before_account_creation", "consent_withdrawal_single_click_account_settings"]
+}

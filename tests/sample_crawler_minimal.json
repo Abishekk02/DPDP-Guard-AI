@@ -1,0 +1,11 @@
+{
+  "url": "https://minimal-example.com",
+  "category": "ecommerce",
+  "pages": [
+    {
+      "url": "https://minimal-example.com",
+      "title": "Online Store",
+      "text": "Welcome to our online store. Buy products online."
+    }
+  ]
+}

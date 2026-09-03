@@ -1,0 +1,16 @@
+{
+  "url": "https://privacy-example.com",
+  "category": "ecommerce",
+  "pages": [
+    {
+      "url": "https://privacy-example.com/privacy",
+      "title": "Privacy Policy",
+      "text": "We collect name, email, phone number, address and order information. We use personal data to process orders and provide customer support. Personal data is encrypted using TLS. Users can request access, correction and deletion of their personal data by emailing privacy@privacy-example.com. We maintain a privacy contact for questions about personal-data processing."
+    },
+    {
+      "url": "https://privacy-example.com/account",
+      "title": "Account Settings",
+      "text": "Users can update their name, email address and phone number. Users can request deletion of their account from the account settings page."
+    }
+  ]
+}
